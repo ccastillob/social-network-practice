@@ -1,0 +1,17 @@
+C:\Proyectos\DemoConsola\CursoCsharp\ProyectoPracticaRedSocial\ProyectoPracticaRedSocial\bin\Debug\net6.0\ProyectoPracticaRedSocial.exe
+C:\Proyectos\DemoConsola\CursoCsharp\ProyectoPracticaRedSocial\ProyectoPracticaRedSocial\bin\Debug\net6.0\ProyectoPracticaRedSocial.deps.json
+C:\Proyectos\DemoConsola\CursoCsharp\ProyectoPracticaRedSocial\ProyectoPracticaRedSocial\bin\Debug\net6.0\ProyectoPracticaRedSocial.runtimeconfig.json
+C:\Proyectos\DemoConsola\CursoCsharp\ProyectoPracticaRedSocial\ProyectoPracticaRedSocial\bin\Debug\net6.0\ProyectoPracticaRedSocial.dll
+C:\Proyectos\DemoConsola\CursoCsharp\ProyectoPracticaRedSocial\ProyectoPracticaRedSocial\bin\Debug\net6.0\ProyectoPracticaRedSocial.pdb
+C:\Proyectos\DemoConsola\CursoCsharp\ProyectoPracticaRedSocial\ProyectoPracticaRedSocial\obj\Debug\net6.0\ProyectoPracticaRedSocial.csproj.AssemblyReference.cache
+C:\Proyectos\DemoConsola\CursoCsharp\ProyectoPracticaRedSocial\ProyectoPracticaRedSocial\obj\Debug\net6.0\ProyectoPracticaRedSocial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\DemoConsola\CursoCsharp\ProyectoPracticaRedSocial\ProyectoPracticaRedSocial\obj\Debug\net6.0\ProyectoPracticaRedSocial.AssemblyInfoInputs.cache
+C:\Proyectos\DemoConsola\CursoCsharp\ProyectoPracticaRedSocial\ProyectoPracticaRedSocial\obj\Debug\net6.0\ProyectoPracticaRedSocial.AssemblyInfo.cs
+C:\Proyectos\DemoConsola\CursoCsharp\ProyectoPracticaRedSocial\ProyectoPracticaRedSocial\obj\Debug\net6.0\ProyectoPracticaRedSocial.csproj.CoreCompileInputs.cache
+C:\Proyectos\DemoConsola\CursoCsharp\ProyectoPracticaRedSocial\ProyectoPracticaRedSocial\obj\Debug\net6.0\ProyectoPracticaRedSocial.dll
+C:\Proyectos\DemoConsola\CursoCsharp\ProyectoPracticaRedSocial\ProyectoPracticaRedSocial\obj\Debug\net6.0\refint\ProyectoPracticaRedSocial.dll
+C:\Proyectos\DemoConsola\CursoCsharp\ProyectoPracticaRedSocial\ProyectoPracticaRedSocial\obj\Debug\net6.0\ProyectoPracticaRedSocial.pdb
+C:\Proyectos\DemoConsola\CursoCsharp\ProyectoPracticaRedSocial\ProyectoPracticaRedSocial\obj\Debug\net6.0\ProyectoPracticaRedSocial.genruntimeconfig.cache
+C:\Proyectos\DemoConsola\CursoCsharp\ProyectoPracticaRedSocial\ProyectoPracticaRedSocial\obj\Debug\net6.0\ref\ProyectoPracticaRedSocial.dll
+C:\Proyectos\DemoConsola\CursoCsharp\ProyectoPracticaRedSocial\ProyectoPracticaRedSocial\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Proyectos\DemoConsola\CursoCsharp\ProyectoPracticaRedSocial\ProyectoPracticaRedSocial\obj\Debug\net6.0\ProyectoPracticaRedSocial.csproj.CopyComplete

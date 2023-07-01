@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sngdeP6PTIQui2ZzwsNn14uAJ5mNAeBa/0W6UZz22QHDjOr8SejeB9HQ3E7I7H7EHKRw/W7Sw6TD7sSgbm8NRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\DemoConsola\\CursoCsharp\\ProyectoPracticaRedSocial\\ProyectoPracticaRedSocial\\ProyectoPracticaRedSocial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\criss\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
